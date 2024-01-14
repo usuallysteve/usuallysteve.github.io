@@ -5,4 +5,4 @@ feedformat: card
 title: This is it!
 ---
 
-The feed page shows all notes from `notes` folder. WOOO!
+Here's all that blogz! WOOO!
